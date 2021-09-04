@@ -1,0 +1,11 @@
+h1 {
+  font-size: 3rem;
+}
+.bg-image{
+  background-image: url(https://saddaul-siam.github.io/developer-portfolio/images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.bg-image2{
+  background-image: url(https://saddaul-siam.github.io/food-network/images/shapes/Frame\ 57.jpg);
+  background-repeat: no-repeat;
+}
